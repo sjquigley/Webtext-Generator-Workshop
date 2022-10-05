@@ -16,13 +16,13 @@ Learn...
 
 ## Proceedings 
 
-* [What is Pitt Fuego?](https://sjquigley.github.io/Pitt-Fuego-Presentation/) - Software design and pedagogical goals.
+* [What is Pitt Fuego?](https://external.ink?to=/sjquigley.github.io/Pitt-Fuego-Presentation/) - Software design and pedagogical goals.
 
-* [Where do I find it?](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/) - Tool descriptions, demos, and links to GitHub repositories.
+* [Where do I find it?](https://external.ink?to=/pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/) - Tool descriptions, demos, and links to GitHub repositories.
 
-* [Webtext Generator](https://github.com/Pitt-Fuego/pitt-fuego-webtext-generator) - Build your own webtext.
+* [Webtext Generator](https://external.ink?to=/github.com/Pitt-Fuego/pitt-fuego-webtext-generator) - Build your own webtext.
 
-* [Workshop Feedback] (https://docs.google.com/forms/d/e/1FAIpQLSffIR6Cml15Gz_4Enxp39Pq3ynN9ivYxCeZTf3J5Q8e9NZsWg/viewform?usp=sf_link) - I'd love to learn a little about how that went. 
+* [Workshop Feedback](https://external.ink?to=/docs.google.com/forms/d/e/1FAIpQLSffIR6Cml15Gz_4Enxp39Pq3ynN9ivYxCeZTf3J5Q8e9NZsWg/viewform?usp=sf_link) - I'd love to learn a little about how that went. 
 
 
 

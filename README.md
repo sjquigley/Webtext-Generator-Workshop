@@ -20,7 +20,7 @@ Learn...
 
 * [Where do I find it?](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/) - Tool descriptions, demos, and links to GitHub repositories.
 
-* [Webtext Generator](https://github.com/Pitt-Fuego/pitt-fuego-webtext-generator) - Build your own webtext.
+* [Webtext Generator Repository](https://github.com/Pitt-Fuego/pitt-fuego-webtext-generator) - Build your own webtext.
 
 * [Workshop Feedback](https://docs.google.com/forms/d/e/1FAIpQLSffIR6Cml15Gz_4Enxp39Pq3ynN9ivYxCeZTf3J5Q8e9NZsWg/viewform?usp=sf_link) - I'd love to learn a little about how that went. 
 
